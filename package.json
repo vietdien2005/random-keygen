@@ -16,7 +16,7 @@
     "test": "./node_modules/.bin/mocha"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=10"
   },
   "keywords": [
     "random",
