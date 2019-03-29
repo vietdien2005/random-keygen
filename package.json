@@ -1,0 +1,33 @@
+{
+  "name": "random-keygen",
+  "version": "1.0",
+  "description": "Simple random keygen.",
+  "main": "main.js",
+  "module": "src/randkey.js",
+  "types": "src/randkey.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vietdien2005/random-keygen"
+  },
+  "author": "Dam Viet <vietdien2005@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint src test main.js examples/example.js",
+    "test": "./node_modules/.bin/mocha"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "random",
+    "generator",
+    "keygen"
+  ],
+  "homepage": "https://github.com/vietdien2005/random-keygen",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.15.3",
+    "mocha": "^6.0.2",
+    "underscore": "^1.9.1"
+  }
+}
