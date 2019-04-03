@@ -55,3 +55,7 @@ Any of these can be passed into the options object for each function.
 | excludeSimilarCharacters | Boolean, exclude similar chars, like 'i' and 'l'.   |     false     |
 | exclude                  | String, characters to be excluded from key.    |       ''      |
 | strict                   | Boolean, key must include at least one character from each pool. |     false     |
+
+---
+
+[TopDev - Việc làm IT](https://topdev.vn/viec-lam-it)

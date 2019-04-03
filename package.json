@@ -1,6 +1,6 @@
 {
   "name": "random-keygen",
-  "version": "1.0",
+  "version": "1.0.3",
   "description": "Simple random keygen.",
   "main": "main.js",
   "module": "src/randkey.js",
@@ -23,7 +23,7 @@
     "generator",
     "keygen"
   ],
-  "homepage": "https://github.com/vietdien2005/random-keygen",
+  "homepage": "https://topdev.vn",
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^5.15.3",
