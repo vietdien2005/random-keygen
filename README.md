@@ -10,6 +10,12 @@
   npm install random-keygen --save
 ```
 
+Or 
+
+```bash
+  yarn add random-keygen
+```
+
 ## Usage
 
 ### `get([options])`
