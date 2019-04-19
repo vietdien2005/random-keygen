@@ -40,7 +40,7 @@ Bulk create multiple keys at once, with the same options for all. Returns an arr
 ```javascript
 var randkey = require('random-keygen');
 
-var keys = generator.getMulti(3, {
+var keys = randkey.getMulti(3, {
     length: 10,
     uppercase: false
 });
