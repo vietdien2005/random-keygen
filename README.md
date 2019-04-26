@@ -10,7 +10,7 @@
   npm install random-keygen --save
 ```
 
-Or 
+Or
 
 ```bash
   yarn add random-keygen

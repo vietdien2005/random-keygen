@@ -1,6 +1,6 @@
 {
   "name": "random-keygen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple random keygen.",
   "main": "main.js",
   "module": "src/randkey.js",
